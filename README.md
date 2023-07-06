@@ -4,7 +4,7 @@
 
 ## 👀 I’m interested in Blockchain, Solidity, Smart Contracts.
 
-### 🌱 I’m currently learning Solana.
+### 🌱 I’m EVM & Solana Blockchain Developer.
 
 #### 💞️ I’m looking to collaborate on Blockchain and Web 3.0 with React.
 
