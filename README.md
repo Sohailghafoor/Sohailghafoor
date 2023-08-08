@@ -1,6 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sohail Ghafoor, You can call me Solomon<br>🔥 Full Stack Web3 Developer || DevRel <br>🚀 Current Tech Stack: Ethereum, Solidity, Hardhat, Foundry, TypeScript, JavaScript, Next.js<br>👀 Interested in: Blockchain, Web3, NFT, DeFi, DApps, Decentralization<br>🌱 Currently learning: DeFi, Solidity, Cryptography, <br>📫 Reach me: @sohailghafoorj on Twitter and LinkedIn
-
+👋 Hi, I’m Sohail Ghafoor, You can call me Solomon<br>🔥 Full Stack Web3 Developer || DevRel <br>🚀 Current Tech Stack: Ethereum, Solidity, Hardhat, Foundry, TypeScript, JavaScript, Next.js<br>👀 Interested in: Blockchain, Web3, NFT, DeFi, DApps, Decentralization<br>🌱 Currently learning: DeFi, Solidity, Cryptography, <br>📫 Reach me: Sohailghafoorj@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailghafoor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohailghafoorj) 
