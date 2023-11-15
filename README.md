@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sohail Ghafoor, You can call me Solomon<br>🔥 Full Stack Blockchain Developer || Web3 Engineer <br>🚀 Current Tech Stack: Ethereum, Binance Smart Chain, Bitcoin , EVM Chain, Solana, Solidity, Integration, Ether.JS and Web3.JS, Hardhat, Foundry, TypeScript, JavaScript, Next.js<br>👀 Interested in: Blockchain, Web3, NFT, Tokenism, DeFi, DApps, Decentralization, DeFi, Solidity, Cryptography <br>🌱 Currently learning: Core Development for Blockchain, Go-lang <br>📫 Reach me: Sohailghafoorj@gmail.com
+👋 Hi, I’m Sohail Ghafoor, You can call me Blockchain Enthusiast<br>🔥 Full Stack Blockchain Developer || Web3 Engineer <br>🚀 Current Tech Stack: Ethereum, Binance Smart Chain, Bitcoin , EVM Chain, Solana, Solidity, Integration, Ether.JS and Web3.JS, Hardhat, Foundry, TypeScript, JavaScript, Next.js<br>👀 Interested in: Blockchain, Web3, NFT, Tokenism, DeFi, DApps, Decentralization, DeFi, Solidity, Cryptography <br>🌱 Currently learning: Core Development for Blockchain, Go-lang <br>📫 Reach me: Sohailghafoorj@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailghafoor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohailghafoorj) 
