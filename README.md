@@ -15,7 +15,7 @@
 ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Slither](https://img.shields.io/badge/Slither-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
-# 📊 Experinced Blockchain:
+# 🔗 Experinced Blockchain:
 ![Ethereum](https://img.shields.io/badge/Ethereum-%2300A1E4.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-%232A69AC.svg?style=for-the-badge&logo=binance&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-%2300A3FF.svg?style=for-the-badge&logo=polygon&logoColor=white)
