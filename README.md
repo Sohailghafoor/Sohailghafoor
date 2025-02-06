@@ -13,7 +13,7 @@
 ![Hardhat](https://img.shields.io/badge/Hardhat-%23000000.svg?style=for-the-badge&logo=hardhat&logoColor=white)
 ![Truffle](https://img.shields.io/badge/Truffle-%239247FF.svg?style=for-the-badge&logo=truffle&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Shalter](https://img.shields.io/badge/Shalter-%234C96FF.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
 # 📊 Experinced Blockchain:
 ![Ethereum](https://img.shields.io/badge/Ethereum-%2300A1E4.svg?style=for-the-badge&logo=ethereum&logoColor=white)
