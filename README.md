@@ -9,6 +9,12 @@
  ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Ethers.js](https://img.shields.io/badge/ethers.js-%2300A6FF.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Web3j](https://img.shields.io/badge/web3j-%23009639.svg?style=for-the-badge&logo=ethereum&logoColor=white)
  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Hardhat](https://img.shields.io/badge/Hardhat-%23000000.svg?style=for-the-badge&logo=hardhat&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-%239247FF.svg?style=for-the-badge&logo=truffle&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Shalter](https://img.shields.io/badge/Shalter-%234C96FF.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+
 # 📊 Experinced Blockchain:
 ![Ethereum](https://img.shields.io/badge/Ethereum-%2300A1E4.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-%232A69AC.svg?style=for-the-badge&logo=binance&logoColor=white)
