@@ -9,9 +9,18 @@
  ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Ethers.js](https://img.shields.io/badge/ethers.js-%2300A6FF.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Web3j](https://img.shields.io/badge/web3j-%23009639.svg?style=for-the-badge&logo=ethereum&logoColor=white)
  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 Experinced Blockchain:
+![Ethereum](https://img.shields.io/badge/Ethereum-%2300A1E4.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-%232A69AC.svg?style=for-the-badge&logo=binance&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-%2300A3FF.svg?style=for-the-badge&logo=polygon&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-%2300A3FF.svg?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-%23000000.svg?style=for-the-badge&logo=optimism&logoColor=white)
+![zkRollups](https://img.shields.io/badge/zkRollups-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-%23F7931A.svg?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Private Blockchain](https://img.shields.io/badge/Private_Blockchain-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hyperledger](https://img.shields.io/badge/Hyperledger-%23FF6A00.svg?style=for-the-badge&logo=hyperledger&logoColor=white)
+![DLT Blockchain](https://img.shields.io/badge/DLT_Blockchain-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
-![EVM Blockchain](https://img.shields.io/badge/EVM_Blockchain-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-%2302A7F0.svg?style=for-the-badge&logo=solana&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sohailghafoor&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
