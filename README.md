@@ -28,9 +28,10 @@
 ![DLT Blockchain](https://img.shields.io/badge/DLT_Blockchain-%23000000.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 
 
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sohailghafoor&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohailghafoor&theme=dark&hide_border=false)<br/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
