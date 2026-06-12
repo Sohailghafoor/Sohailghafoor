@@ -187,8 +187,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohailghafoor&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailghafoor&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:1B4F8A&height=100&section=footer"/>
