@@ -23,7 +23,7 @@
 |:---:|:---:|
 | 📜 **50+ Production Smart Contracts** | 💰 **$10M+ Digital Assets Secured** |
 | 🏛️ **ADGM/FSRA Regulated** | 🌍 **7 Live Production Projects** |
-| 🎓 **CEBA™ Certified** | 🔓 **Open Source Contributor** |
+| 🎓 **Certified Enterprise Blockchain Architect (CEBA™)** | 🔓 **Open Source Contributor** |
 
 <br/>
 
