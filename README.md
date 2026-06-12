@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4F8A,100:00D4FF&height=200&section=header&text=Sohail%20Ghafoor&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Lead%20Blockchain%20Engineer%20%7C%20Smart%20Contract%20Security%20%7C%20Digital%20Asset%20Infrastructure&descSize=16&descAlignY=58&descColor=ffffff"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailghafoor)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sohailghafoor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.ghafoor004@gmail.com)
 
 [![CertiK ADI](https://img.shields.io/badge/CertiK-ADI_Audited-00A6FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://skynet.certik.com/projects/adi)
