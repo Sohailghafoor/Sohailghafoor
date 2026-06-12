@@ -160,3 +160,12 @@ Validator and consensus components
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=sohailghafoor&theme=dark&hide_border=false&count_private=false&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sohailghafoor&theme=dark&hide_border=false)
+
+</div>
