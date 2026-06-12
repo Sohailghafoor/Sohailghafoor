@@ -187,7 +187,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohailghafoor&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailghafoor&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 <br/>
 
