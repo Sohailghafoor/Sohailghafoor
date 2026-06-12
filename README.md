@@ -5,9 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailghafoor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.ghafoor004@gmail.com)
 
-[![CertiK ADI](https://img.shields.io/badge/CertiK-ADI_Audited-00A6FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://skynet.certik.com/projects/adi)
+[![CertiK ADI](https://img.shields.io/badge/🛡️_CertiK-ADI_Audited-00A6FF?style=for-the-badge)](https://skynet.certik.com/projects/adi)
 
-[![CertiK Finstreet](https://img.shields.io/badge/CertiK-Finstreet_Audited-00A6FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://skynet.certik.com/projects/finstreet-limited)
+[![CertiK Finstreet](https://img.shields.io/badge/🛡️_CertiK-Finstreet_Audited-00A6FF?style=for-the-badge)](https://skynet.certik.com/projects/finstreet-limited)
 
 [![Medium](https://img.shields.io/badge/✍️_Blockchain_Writing-Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sohailghafoorj)
 
