@@ -5,9 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohailghafoor)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sohailghafoor)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.ghafoor004@gmail.com)
-
 [![CertiK ADI](https://img.shields.io/badge/CertiK-ADI_Audited-00A6FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://skynet.certik.com/projects/adi)
-
 [![CertiK Finstreet](https://img.shields.io/badge/CertiK-Finstreet_Audited-00A6FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://skynet.certik.com/projects/finstreet-limited)
 
 <br/>
@@ -37,6 +35,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br/>
 
@@ -73,7 +72,6 @@
 
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
@@ -189,6 +187,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sohailghafoor&theme=tokyonight&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailghafoor&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 <br/>
 
