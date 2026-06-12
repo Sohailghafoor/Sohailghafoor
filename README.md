@@ -174,6 +174,7 @@
 ## 🤝 Open Source Contributions
 
 [![Immutable](https://img.shields.io/badge/Immutable-Contributor-8247E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immutable)
+
 [![Polygon](https://img.shields.io/badge/0xPolygon-Contributor-8247E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xpolygon)
 
 *Validator and consensus components*
