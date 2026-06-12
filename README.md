@@ -9,6 +9,9 @@
 
 [![CertiK Finstreet](https://img.shields.io/badge/CertiK-Finstreet_Audited-00A6FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://skynet.certik.com/projects/finstreet-limited)
 
+[![Medium](https://img.shields.io/badge/✍️_Blockchain_Writing-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sohailghafoorj)
+
+[![101 Blockchains](https://img.shields.io/badge/🏆_Featured_Success_Story-101_Blockchains-FF6B35?style=for-the-badge&logoColor=white)](https://101blockchains.com/success-story-sohail-ghafoor/)
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Lead+Blockchain+Engineer+%7C+8%2B+Years;Smart+Contract+%7C+DeFi+%7C+Digital+Assets;ADGM%2FFSRA+Regulated+%7C+CertiK+Audited;MPC%2FTSS+%7C+HSM+%7C+Institutional+Custody;zkSync+%7C+Hyperledger+%7C+Cross-chain)
