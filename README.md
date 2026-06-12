@@ -9,7 +9,7 @@
 
 [![CertiK Finstreet](https://img.shields.io/badge/CertiK-Finstreet_Audited-00A6FF?style=for-the-badge&logo=ethereum&logoColor=white)](https://skynet.certik.com/projects/finstreet-limited)
 
-[![Medium](https://img.shields.io/badge/✍️_Blockchain_Writing-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sohailghafoorj)
+[![Medium](https://img.shields.io/badge/✍️_Blockchain_Writing-Medium-00AB6C?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sohailghafoorj)
 
 [![101 Blockchains](https://img.shields.io/badge/🏆_Featured_Success_Story-101_Blockchains-FF6B35?style=for-the-badge&logoColor=white)](https://101blockchains.com/success-story-sohail-ghafoor/)
 <br/>
